@@ -4,12 +4,12 @@
 Email Me 👉 ✉️ **ankitraj955593@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** wearther 
-- 🌱 **I’m currently learning:** fultter 
+- 🌱 **I’m currently learning:** flutter 
 - 👯 **I’m looking to collaborate on:** life manage AI 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** ankitraj955593@gmail.com
 - 😄 **Pronouns:** AR RAJPUT
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 - <!-- Snake Game Repo View -->
 
 <div align="center">
