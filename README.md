@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ankit Rajput
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Cloud Engineer || DevOps Engineer **
 
 Email Me 👉 ✉️ **ankitraj955593@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
